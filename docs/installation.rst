@@ -1,5 +1,5 @@
 ============
-Installation
+Installation edited by Robotronix
 ============
 
 Install the package with pip::
